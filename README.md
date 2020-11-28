@@ -1,2 +1,2 @@
 # ProductManagement
-Managing Products sold by a company
+Managing Product Details
