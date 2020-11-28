@@ -1,2 +1,2 @@
 # ProductManagement
-Managing Product Details
+Managing Product Details - A Spring CRUD Demo app
